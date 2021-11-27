@@ -1,1 +1,1 @@
-# Slider_2
+# slider-uzb-tutorial-starter
